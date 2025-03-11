@@ -33,13 +33,6 @@
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-
-
-###
 
 <div align="center">
   <img height="200" src="https://i.redd.it/s6uc3710iigd1.gif"  />
