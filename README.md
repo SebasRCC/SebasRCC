@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="198" src="https://i.redd.it/zivj0410iigd1.gif"  />
+<img align="left" height="198" src="[https://i.redd.it/zivj0410iigd1.gif](https://i.redd.it/zx1g0310iigd1.gif)"  />
 
 ###
 
@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SebasLS1/SebasLS1/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
