@@ -24,8 +24,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
 </div>
-S
-<img src="https://raw.githubusercontent.com/SebasLS1/SebasLS1/output/snake.svg" alt="Snake animation" />
 
 ###
 
