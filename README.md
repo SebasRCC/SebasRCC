@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Sebas, estudiante de la carrera de Software en la Escuela Politécnica Nacional.<br><br>Además de temas relacionados con mi carrera, me apasiona el power-lifting, el ciclismo, corer, viajar, el cine, los videojuegos. Me considero una persona creativa, que sabe trabajar en equipo y responsable. Aspiro a  desarrollarme en el campo del Frontend, UX Desing o Web Designer por el momento.</h2>
+<h2 align="left">Hola 👋! Mi nombre es Sebas, estudiante de la carrera de Software en la Escuela Politécnica Nacional.<br><br>Además de temas relacionados con mi carrera, me apasiona el power-lifting, el ciclismo, corer, viajar, el cine, los videojuegos. Me considero una persona responsable, creativa,y que sabe trabajar en equipo. Aspiro a  desarrollarme en el campo del Frontend, UX Desing o Web Designer por el momento.</h2>
 
 ###
 
